@@ -1,5 +1,9 @@
 # Ourworldcenter Repo
 
+## Note
+
+This is a temporary repo for testing purposes only. It may be deleted in the future.
+
 ## How do I install these formulae?
 
 `brew install ourworldcenter/repo/<formula>`
